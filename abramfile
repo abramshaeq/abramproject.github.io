@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <style>
+        body{
+            font-family:monospace;
+            line-height:1;
+            font-style:italic;
+            font-size:12px;
+            color:white;
+            background-color:black;
+        }
+    </style>
+    <body>
+        
+        <h1>Learning building about Websites</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#1">Having passion</a></li>
+            <li><a href="#2">Finding a good source</a></li>
+            <li><a href="#3">Practing and motivation</a></li>
+        </ul>
+        
+        <h2 id="1">Having passion</h2>
+        <h6>Posted on 3rd of July 2018 at New Delhi, India</h6>
+        
+        <p>I had a desrie from childhood that I wanted to be famous through some media, specially youtube, to express myself to thw world through internet and I never thought of expressing and showing what u have indide of u through a web. And now my dream is turning into reality and Im working on it. </p>
+        <h2 id="2">Finding a good source</h2>
+        <p>I had that dream but never thought of learning and then I was introduced to this good website <a href="https://www.khanacademy.org/">KHAN ACADEMY</a>and I found where I can learn so easily and free of cost and step by step.</p>
+        <h2 id="3">Practicing and motivation</h2>
+        <p>I started learning it everyday and now I enjoy using this to express the hidden colors inside of me. And when I do a project, I also can share the work to whoever I wanted and getting their feedback  is a exciting experience. I practice and try not to forget the tags.</p>
+    </body>
+</html>
